@@ -1,0 +1,366 @@
+.my-student-i-d-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ededed;
+}
+.my-student-i-d-my-student-i-d {
+  width: 360px;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  margin-top: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-student-i-d-rectangle31 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 640px;
+  position: absolute;
+  margin-top: var(--dl-space-space-unit);
+  border-color: transparent;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.my-student-i-d-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+}
+.my-student-i-d-rectangle6 {
+  left: 120px;
+  width: 129px;
+  bottom: 33px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.my-student-i-d-text {
+  top: 570px;
+  left: 98px;
+  color: rgba(255, 255, 255, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-student-i-d-text02 {
+  top: 12px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-student-i-d-line1 {
+  top: 16px;
+  left: 315px;
+  width: 27px;
+  height: 17px;
+  position: absolute;
+}
+.my-student-i-d-group459 {
+  top: 93px;
+  left: 44px;
+  width: 273px;
+  height: 454px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.my-student-i-d-rectangle4 {
+  top: 0px;
+  left: 1px;
+  width: 272px;
+  height: 453px;
+  position: absolute;
+}
+.my-student-i-d-concordia1 {
+  top: -1px;
+  right: 1px;
+  width: 270px;
+  height: 455px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.my-student-i-d-whats-app-image20221019at9581 {
+  top: 371px;
+  left: 17px;
+  width: 235px;
+  height: 53px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-rectangle5 {
+  top: 38px;
+  left: 64.13525390625px;
+  width: 140px;
+  height: 117px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-profilepic1 {
+  top: 25px;
+  right: 65px;
+  width: 144px;
+  height: 139px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-container1 {
+  flex: 0 0 auto;
+  width: 66px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-student-i-d-text04 {
+  color: rgb(0, 0, 0);
+  width: 195px;
+  height: auto;
+  font-size: 15px;
+  transform: rotate(90deg);
+  align-self: flex-start;
+  font-style: Medium;
+  margin-top: 155px;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 2px;
+  font-stretch: normal;
+  margin-right: 2px;
+  margin-bottom: var(--dl-space-space-fiveunits);
+  text-decoration: none;
+}
+.my-student-i-d-container2 {
+  flex: 0 0 auto;
+  width: 66px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.my-student-i-d-text05 {
+  color: rgb(0, 0, 0);
+  width: 66px;
+  font-size: 18px;
+  transform: rotate(90deg);
+  align-self: center;
+  font-style: Medium;
+  margin-top: var(--dl-space-space-halfunit);
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: var(--dl-space-space-fiveunits);
+  font-stretch: normal;
+  margin-bottom: var(--dl-space-space-fourunits);
+  text-decoration: none;
+}
+.my-student-i-d-text06 {
+  text-transform: capitalize;
+}
+.my-student-i-d-text07 {
+  text-transform: capitalize;
+}
+.my-student-i-d-text08 {
+  text-transform: capitalize;
+}
+.my-student-i-d-text10 {
+  top: -717426709432766600px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 188px;
+  position: absolute;
+  font-size: 16px;
+  transform: rotate(90deg);
+  align-self: flex-start;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
+}
+.my-student-i-d-text11 {
+  top: -1.53514e+18px;
+  left: -1.63313e+17px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  transform: rotate(90deg);
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  border-radius: var(--dl-radius-radius-radius4);
+  text-decoration: none;
+}
+.my-student-i-d-text16 {
+  top: 235px;
+  left: 40px;
+  color: rgb(0, 0, 0);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  transform: rotate(90deg);
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 1.35;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-student-i-d-text21 {
+  top: 430px;
+  left: 63px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-student-i-d-text23 {
+  top: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  transform: rotate(90deg);
+  align-self: auto;
+  font-style: Regular;
+  margin-top: 90px;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: auto;
+  font-stretch: normal;
+  margin-right: 179px;
+  margin-bottom: 90px;
+  text-decoration: none;
+}
+.my-student-i-d-rectangle12 {
+  top: 130px;
+  left: 179px;
+  width: 22px;
+  height: 21px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-arrow2 {
+  top: 14px;
+  left: 13px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-line14 {
+  top: 233px;
+  left: 242px;
+  width: 8px;
+  height: 0px;
+  position: absolute;
+}
+.my-student-i-d-line17 {
+  top: 226px;
+  left: 225px;
+  width: 8px;
+  height: 0px;
+  position: absolute;
+}
+.my-student-i-d-line15 {
+  top: 242px;
+  left: 234px;
+  width: 9px;
+  height: 0px;
+  position: absolute;
+}
+.my-student-i-d-line16 {
+  top: 226px;
+  left: 225px;
+  width: 9px;
+  height: 0px;
+  position: absolute;
+}
+.my-student-i-d-rectangle30 {
+  top: 0px;
+  left: 0px;
+  width: 299px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}

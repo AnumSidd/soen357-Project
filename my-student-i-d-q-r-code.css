@@ -1,0 +1,82 @@
+.my-student-i-d-q-r-code-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ededed;
+}
+.my-student-i-d-q-r-code-my-student-i-d {
+  width: 360px;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  margin-top: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-student-i-d-q-r-code-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+}
+.my-student-i-d-q-r-code-whats-app-image20221019at9521 {
+  top: 182px;
+  left: 49px;
+  width: 263px;
+  height: 277px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-q-r-code-text {
+  top: 12px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-student-i-d-q-r-code-line1 {
+  top: 16px;
+  left: 315px;
+  width: 27px;
+  height: 17px;
+  position: absolute;
+}
+.my-student-i-d-q-r-code-arrow3 {
+  top: 14px;
+  left: 13px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-q-r-code-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 299px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}

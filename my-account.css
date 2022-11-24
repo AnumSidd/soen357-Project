@@ -1,0 +1,517 @@
+.my-account-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ededed;
+}
+.my-account-my-account {
+  width: 360px;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  margin-top: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-account-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+}
+.my-account-data {
+  top: 48px;
+  left: 0px;
+  width: 360px;
+  height: 592px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  margin-top: 0px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-account-row01hover {
+  top: 147px;
+  left: 0px;
+  width: 360px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-rowdividers {
+  top: 51px;
+  left: 0px;
+  width: 361px;
+  height: 312px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.my-account-divider {
+  top: 51.82013702392578px;
+  left: -1.8189894035458565e-12px;
+  width: 360px;
+  height: 1.0795845985412598px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.my-account-divider01 {
+  top: 0px;
+  left: 3.230865214579569e-14px;
+  width: 360px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-divider02 {
+  top: 103.64015197753906px;
+  left: -1.8189894035458565e-12px;
+  width: 360px;
+  height: 1.0795845985412598px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.my-account-divider03 {
+  top: 0px;
+  left: 3.230865214579569e-14px;
+  width: 360px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-divider04 {
+  top: 155.46017456054688px;
+  left: 1px;
+  width: 360px;
+  height: 1.0795845985412598px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.my-account-divider05 {
+  top: 0px;
+  left: 3.230865214579569e-14px;
+  width: 360px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-divider06 {
+  top: 207.283447265625px;
+  left: 0px;
+  width: 360px;
+  height: 1.0795845985412598px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.my-account-divider07 {
+  top: 0px;
+  left: 3.230865214579569e-14px;
+  width: 360px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-divider08 {
+  top: 259.103515625px;
+  left: 0px;
+  width: 360px;
+  height: 1.0795845985412598px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.my-account-divider09 {
+  top: 0px;
+  left: 3.230865214579569e-14px;
+  width: 360px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-divider10 {
+  top: 310.92047119140625px;
+  left: -1.8189894035458565e-12px;
+  width: 360px;
+  height: 1.0795845985412598px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.my-account-divider11 {
+  top: 0px;
+  left: 3.230865214579569e-14px;
+  width: 360px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-divider12 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 1.0795845985412598px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.my-account-divider13 {
+  top: 0px;
+  left: 3.230865214579569e-14px;
+  width: 360px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-text {
+  top: 4.003173828125px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Anek Bangla;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-account-text02 {
+  top: 55.17041015625px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Anek Bangla;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-account-text04 {
+  top: 108.3536376953125px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Anek Bangla;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-account-text06 {
+  top: 158.508056640625px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 201px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Anek Bangla;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-account-text08 {
+  top: 210.6751708984375px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Anek Bangla;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-account-text10 {
+  top: 261.8392333984375px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Anek Bangla;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-account-divider14 {
+  top: 432px;
+  left: 0px;
+  width: 360px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.my-account-divider15 {
+  top: -18px;
+  right: -1px;
+  width: 360px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-text12 {
+  top: -10px;
+  left: 60px;
+  color: rgba(0, 0, 0, 1);
+  width: 203px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Anek Bangla;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-account-text14 {
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 203px;
+  bottom: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Anek Bangla;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-account-image341 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 466px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-text16 {
+  top: 4px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Anek Bangla;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-account-text18 {
+  top: 365px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Anek Bangla;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-account-divider16 {
+  top: 533px;
+  left: 0px;
+  width: 360px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.my-account-divider17 {
+  top: -18px;
+  right: 0px;
+  width: 360px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-rectangle7 {
+  top: 467px;
+  left: 0px;
+  width: 49px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-iconsax-linear-card {
+  top: 475px;
+  left: 6px;
+  width: 36px;
+  height: 32px;
+  position: absolute;
+}
+.my-account-divider18 {
+  right: -12px;
+  width: 365px;
+  bottom: 59px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.my-account-divider19 {
+  top: -32px;
+  left: -10px;
+  width: 382px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-rectangle28 {
+  right: -254px;
+  width: 360px;
+  bottom: -52px;
+  height: 49px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-text20 {
+  top: 12px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-account-line1 {
+  top: 16px;
+  left: 315px;
+  width: 27px;
+  height: 17px;
+  position: absolute;
+}
+.my-account-arrow1 {
+  top: 14px;
+  left: 13px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-account-rectangle29 {
+  top: 0px;
+  left: 0px;
+  width: 299px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}

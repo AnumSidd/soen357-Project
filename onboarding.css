@@ -1,0 +1,31 @@
+.onboarding-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ededed;
+}
+.onboarding-onboarding {
+  width: 360px;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  margin-top: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(145, 35, 56, 1);
+}
+.onboarding-lettercicon18ffffff5121 {
+  top: 200px;
+  left: 68px;
+  width: 216px;
+  height: 240px;
+  position: absolute;
+  border-color: transparent;
+}

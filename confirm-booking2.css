@@ -1,0 +1,200 @@
+.confirm-booking2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ededed;
+}
+.confirm-booking2-confirm-booking {
+  width: 360px;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  margin-top: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.confirm-booking2-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+}
+.confirm-booking2-text {
+  top: 55px;
+  left: 43px;
+  color: rgba(0, 0, 0, 1);
+  width: 275px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Anek Bangla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.confirm-booking2-line1 {
+  top: 16px;
+  left: 315px;
+  width: 27px;
+  height: 17px;
+  position: absolute;
+}
+.confirm-booking2-text02 {
+  top: 12px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  width: 223px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.confirm-booking2-text04 {
+  top: 105px;
+  left: 30px;
+  color: rgba(0, 0, 0, 1);
+  width: 301px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.confirm-booking2-text06 {
+  top: 145px;
+  left: 33px;
+  color: rgba(0, 0, 0, 1);
+  width: 301px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.confirm-booking2-text08 {
+  top: 185px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 313px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.confirm-booking2-text09 {
+  font-weight: 700;
+}
+.confirm-booking2-text18 {
+  top: 250px;
+  left: 39px;
+  color: rgba(0, 0, 0, 1);
+  width: 283px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.confirm-booking2-rectangle23 {
+  top: 342px;
+  left: 84px;
+  width: 192px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.confirm-booking2-text20 {
+  top: 349px;
+  left: 93px;
+  color: rgba(255, 255, 255, 1);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.confirm-booking2-arrow4 {
+  top: 14px;
+  left: 13px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+  border-color: transparent;
+}
+.confirm-booking2-rectangle33 {
+  top: 0px;
+  left: 0px;
+  width: 299px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}

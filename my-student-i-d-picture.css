@@ -1,0 +1,361 @@
+.my-student-i-d-picture-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ededed;
+}
+.my-student-i-d-picture-my-student-i-d {
+  width: 360px;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  margin-top: var(--dl-space-space-fourunits);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.my-student-i-d-picture-rectangle31 {
+  left: -1px;
+  width: 360px;
+  bottom: -48px;
+  height: 640px;
+  position: absolute;
+  margin-top: var(--dl-space-space-fourunits);
+  border-color: transparent;
+}
+.my-student-i-d-picture-text {
+  top: 570px;
+  left: 98px;
+  color: rgba(255, 255, 255, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-student-i-d-picture-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+}
+.my-student-i-d-picture-rectangle6 {
+  left: 116px;
+  width: 129px;
+  bottom: 31px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+  margin-right: var(--dl-space-space-fourunits);
+  border-radius: 10px;
+}
+.my-student-i-d-picture-text02 {
+  top: 570px;
+  left: 98px;
+  color: rgba(255, 255, 255, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-student-i-d-picture-text04 {
+  top: 12px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.my-student-i-d-picture-line1 {
+  top: 16px;
+  left: 315px;
+  width: 27px;
+  height: 17px;
+  position: absolute;
+}
+.my-student-i-d-picture-group459 {
+  top: 93px;
+  left: 44px;
+  width: 273px;
+  height: 454px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.my-student-i-d-picture-rectangle4 {
+  top: 0px;
+  left: 1px;
+  width: 272px;
+  height: 453px;
+  position: absolute;
+}
+.my-student-i-d-picture-concordia1 {
+  top: 1px;
+  left: -2px;
+  width: 275px;
+  height: 455px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.my-student-i-d-picture-whats-app-image20221019at9581 {
+  top: 371px;
+  left: 17px;
+  width: 235px;
+  height: 53px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-picture-text06 {
+  top: 160px;
+  left: 207px;
+  color: rgba(0, 0, 0, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-student-i-d-picture-text13 {
+  top: 160px;
+  left: 146px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-student-i-d-picture-text18 {
+  top: 160px;
+  left: 85px;
+  color: rgba(0, 0, 0, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-student-i-d-picture-text20 {
+  top: 160px;
+  left: 118px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-student-i-d-picture-text25 {
+  top: 430px;
+  left: 63px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-student-i-d-picture-text27 {
+  top: 29px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 143px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.my-student-i-d-picture-downloadremovebgpreview1 {
+  top: 5px;
+  right: 6px;
+  width: 73px;
+  height: 175px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-picture-arrow2 {
+  top: 14px;
+  left: 13px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-picture-rectangle30 {
+  top: 0px;
+  left: 0px;
+  width: 299px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-picture-rectangle33 {
+  top: 170px;
+  left: 0px;
+  width: 360px;
+  height: 289px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-picture-rectangle34 {
+  right: -384px;
+  width: 360px;
+  bottom: -22px;
+  height: 640px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-picture-profilepic2 {
+  top: 135px;
+  left: -2px;
+  width: 356px;
+  height: 357px;
+  position: absolute;
+  border-color: transparent;
+}
+.my-student-i-d-picture-group461 {
+  top: 401px;
+  left: 300px;
+  width: 54px;
+  height: 52px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 0.75);
+}
+.my-student-i-d-picture-line16 {
+  top: 23.428558349609375px;
+  left: 2.9091796875px;
+  width: 21px;
+  height: 0px;
+  position: absolute;
+}
+.my-student-i-d-picture-line18 {
+  top: 28.428558349609375px;
+  left: 28.9091796875px;
+  width: 21px;
+  height: 0px;
+  position: absolute;
+}
+.my-student-i-d-picture-line17 {
+  top: 23.20001220703125px;
+  left: 24.4091796875px;
+  width: 21px;
+  height: 0px;
+  position: absolute;
+}
+.my-student-i-d-picture-line19 {
+  top: 48.399993896484375px;
+  left: 29.4091796875px;
+  width: 21px;
+  height: 0px;
+  position: absolute;
+}
