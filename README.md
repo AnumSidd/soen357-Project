@@ -1,4 +1,3 @@
-<h1 align="center">Soen357-Project</h1> 
 <h1 align="center">Concordia Access</h1>
 
 ## :busts_in_silhouette:Team Members
